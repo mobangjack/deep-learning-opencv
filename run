@@ -1,0 +1,1 @@
+python deep_learning_with_opencv.py -i images/eagle.png -p bvlc_googlenet.prototxt -m bvlc_googlenet.caffemodel -l synset_words.txt
